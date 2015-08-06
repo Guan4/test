@@ -1,0 +1,13 @@
+.container {
+    
+    border: 1px solid #666666;
+    width : 700px;
+    height: 600px;
+}
+
+.centerbox {
+    border: 1px solid #aaffaa;
+    width : 200px;
+    height: 200px;
+    background-color: yellow;
+}
